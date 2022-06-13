@@ -16,7 +16,7 @@ numbers.forEach((number) => {
 })
 
 // const calculatorScreen = document.querySelectorAll(".ca  lculator-screen")
-const calculatorScreen = document.getElementById("calcu");
+const calculatorScreen = document.getElementById("calcu")
 
 
 const updateScreen = (number) => {
